@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'YBNumToolLib_Example' do
+  pod 'YBNumToolLib', :path => '../'
+
+  target 'YBNumToolLib_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
