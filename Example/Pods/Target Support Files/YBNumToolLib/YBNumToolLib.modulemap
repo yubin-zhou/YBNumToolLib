@@ -1,0 +1,6 @@
+framework module YBNumToolLib {
+  umbrella header "YBNumToolLib-umbrella.h"
+
+  export *
+  module * { export * }
+}

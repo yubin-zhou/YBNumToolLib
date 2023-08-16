@@ -7,12 +7,13 @@
 //
 
 import UIKit
-
+import YBNumToolLib
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        YBNumToolLib.share.add(10, 100)
     }
 
     override func didReceiveMemoryWarning() {

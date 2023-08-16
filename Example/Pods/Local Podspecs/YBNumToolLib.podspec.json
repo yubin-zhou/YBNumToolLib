@@ -1,0 +1,22 @@
+{
+  "name": "YBNumToolLib",
+  "version": "0.1.0",
+  "summary": "A short description of YBNumToolLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/625887489@qq.com/YBNumToolLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "625887489@qq.com": "zhouyubinwangyi@163.com"
+  },
+  "source": {
+    "git": "https://github.com/625887489@qq.com/YBNumToolLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "YBNumToolLib/Classes/**/*"
+}

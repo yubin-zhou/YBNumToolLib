@@ -1,0 +1,16 @@
+PODS:
+  - YBNumToolLib (0.1.0)
+
+DEPENDENCIES:
+  - YBNumToolLib (from `../`)
+
+EXTERNAL SOURCES:
+  YBNumToolLib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YBNumToolLib: 8f38c65434d807a1c09168a2b54ffe94a0ff5646
+
+PODFILE CHECKSUM: 137b9dd0c05615309a3d44772c7e18ae6af8c238
+
+COCOAPODS: 1.12.1
